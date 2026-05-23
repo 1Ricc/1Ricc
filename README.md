@@ -1,5 +1,4 @@
 # Hi, I'm Ricc 👋
---- 
 I'm a Computer Science student at the University of Trento, passionate about software development, competitive programming, and theoretical CS.
 
 On my GitHub you'll find projects ranging from academic to personal, solo weekend sprints and big team efforts alike, spanning a variety of languages and domains.
